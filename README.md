@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **kyl1n0/kyl1n0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,6 +12,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 ![](https://raw.githubusercontent.com/kyl1n0/kyl1n0/output/github-contribution-grid-snake.svg)
