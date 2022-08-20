@@ -1,9 +1,8 @@
 ### About Me
-- 网络安全爱好者，又菜又爱玩
+- 网络安全爱好者
 
 ### Learning
-- Cyber Security
-- Development
+- Cyber Security、Development
 
 ### Projects
 - [Cyber-Security-Notes](https://github.com/kyl1n0/Cyber-Security-Notes)
