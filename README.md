@@ -16,7 +16,7 @@
 <summary>2022-08-21 TODO</summary>
 
 - Web安全 
-  - [ ] 信息收集
-  - [ ] 逻辑漏洞
+  - [ ] [信息收集](https://github.com/kyl1n0/Security/blob/main/Security/Web%E5%AE%89%E5%85%A8/%E4%BF%A1%E6%81%AF%E6%94%B6%E9%9B%86.md)
+  - [ ] [逻辑漏洞](https://github.com/kyl1n0/Security/blob/main/Security/Web%E5%AE%89%E5%85%A8/%E9%80%BB%E8%BE%91%E6%BC%8F%E6%B4%9E.md)
 
 </details>
