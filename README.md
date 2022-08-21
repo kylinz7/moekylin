@@ -1,8 +1,6 @@
+## About Me
+
 ![Visitor Count](https://profile-counter.glitch.me/kyl1n0/count.svg)
-
-### About Me
-
-- 网络安全爱好者
 
 ### Learning
 
