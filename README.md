@@ -3,10 +3,6 @@
 - Blog: https://www.yuque.com/kyl1n0
 - Notes: https://github.com/kyl1n0/Security
 
-
-## Project list
-- [Security](https://github.com/kyl1n0/Security) - 个人维护的安全知识库
-
 <!-- ![Visitor Count](https://profile-counter.glitch.me/kyl1n0/count.svg) -->
 
 ## Contact me
