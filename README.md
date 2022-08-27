@@ -8,7 +8,7 @@
 
 "得失有常，风不停吹，有心人一直追"
 
-| <a href="https://github.com/moekylin"><img align="center" src="https://github-readme-stats.vercel.app/api?username=moekylin&show_icons=true&theme=buefy&hide_border=true&hide=contribs" alt="moekylin's GitHub stats" /></a> | <a href="https://github.com/moekylin"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moekylin&layout=compact&hide_border=true&theme=buefy&hide=javascript,html,css" /></a> |
+| <a href="https://github.com/moekylin"><img align="center" src="https://github-readme-stats.vercel.app/api?username=moekylin&show_icons=true&theme=buefy&hide_border=true&hide=contribs,prs" alt="moekylin's GitHub stats" /></a> | <a href="https://github.com/moekylin"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moekylin&layout=compact&hide_border=true&theme=buefy&hide=javascript,html,css,stylus,less" /></a> |
 | ------------- | ------------- |
 
 ## Project List
