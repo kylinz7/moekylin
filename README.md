@@ -12,7 +12,7 @@
 | ------------- | ------------- |
 
 ## Project List
-- [Security](https://github.com/moekylin/Security)：Cyber Security Notes 网络安全知识库 整理总结相关知识点
+- https://github.com/moekylin/Security 网络安全知识库 整理总结相关知识点
 
 ![](https://raw.githubusercontent.com/kyl1n0/kyl1n0/output/github-contribution-grid-snake.svg)
 
