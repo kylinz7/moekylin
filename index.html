@@ -1,0 +1,78 @@
+<!-- 
+Name：bppws
+Author：kaygb
+Version：20200708
+-->
+<!DOCTYPE html>
+<html lang="">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Moekylin's Home</title>
+    <meta name="keywords" content="风也小窝,风也的个人主页,编程与学习,自律与生活">
+    <meta name="theme-color" content="#000">
+    <link rel="shortcut icon" href="" type="image/x-icon">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/kaygb/Apage@master/pws20200708/style.css">
+    <style>
+            h1::before{
+                content: 'Moekylin\'s HOME';
+                position: absolute;
+                color: #b2bec348;
+                z-index: -1;
+                left: 10px;
+                top: 10px;
+            }
+    </style>
+</head>
+<body>
+    <div class="zz">
+        <img class="lazy-img" data-original="https://i.loli.net/2020/09/14/v4Si8BIupOVcwm6.jpg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICRAEAOw==" alt="" srcset="">
+    </div>
+
+    <div class="main">
+        
+        <div class="title">
+            <h1>Moekylin's HOME</h1>
+        </div>
+        <div class="content">
+            <p>网络安全爱好者</p>
+            <p>So, enjoy life!</p>
+            <p>Whatever you do, you hold on to that foolishly hopeful smile.</p>
+            <p>You can catch me on my <a href="https://blog.kaygb.com/" target="_blank">blog</a> or read my <a href="https://wiki.eas1.cn/" target="_blank">wiki</a>.</p>
+        </div>
+        <div class="footer">
+            <span>&copy; 风也小窝</span>&nbsp;
+            <span><a href="http://beian.miit.gov.cn" target="_blank" rel="nofollow">豫ICP备19002054号-6</a></span>&nbsp;
+            <span>Design by : <a href="https://blog.kaygb.com/" target="_blank">kaygb</a></span>
+            <br>
+            <span><a class="upyun" href="https://console.upyun.com/register/?invite=r1FdZxBoH" target="_blank" rel="nofollow"><img src="https://i.loli.net/2020/09/14/YbXKvLAJhlWN1Ox.png" style="width:50px;"></a></span>
+            
+        </div>
+
+    </div>
+
+    <script src="https://cdn.staticfile.org/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://cdn.staticfile.org/jquery_lazyload/1.9.7/jquery.lazyload.min.js"></script>
+    <script>
+        // lazyload
+    window.onload = function() {
+        $('.zz img').addClass('lazyload');
+        $(function() {
+            $("img.lazyload").lazyload({
+                effect: 'fadeIn',
+                // inverval: 3000
+                effectspeed: 1000
+            });
+        });
+
+        $(".zz img").lazyload({
+            effect: 'fadeIn',
+            // inverval: 3000
+            effectspeed: 1000 
+        });
+    }
+    console.log(" %c bppws %c https://github.com/kaygb/Apage/ ", "color: #000; background: pink; padding:5px;", "background: #fff; padding:5px;");
+//初始化
+    </script>
+</body>
+</html>
