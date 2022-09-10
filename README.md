@@ -1,4 +1,4 @@
-## About Me <img src="@attachment/images/kyubey.gif" style=width:50px>
+## About Me <img src="@attachment/images/kyubey.gif">
 
 - 网络安全爱好者，主要研究Web安全
 - 📖 Blog: <https://yuque.com/moekylin/blog>
