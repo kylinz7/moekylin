@@ -21,8 +21,6 @@ Version：20200708
         margin: 20vh auto;
         display: block;
         position: relative;
-
-
     }
     div{
         display: block;
@@ -34,13 +32,19 @@ Version：20200708
 
     }
     p{
-        color: #b2bec3;
+        color: #babebf;
         font-size: 1.5rem;
     }
     p a{
         color: #e84393;
     }
     p a:hover,p a:visited,p a:focus{
+        color: #e84393;
+    }
+    p li{
+        color: #e84393;
+    }
+    p li:hover,p a:visited,p a:focus{
         color: #e84393;
     }
     .zz{
