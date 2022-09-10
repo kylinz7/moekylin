@@ -1,4 +1,4 @@
-## About Me <img src="https://github.com/Moekylin/moekylin/blob/a313fe1256ffac22dd73c95c4780f855641df723/@attachment/images/kyubey.gif" style=width:50px>
+## About Me <img src="@attachment/images/kyubey.gif" style=width:50px>
 
 - 网络安全爱好者，主要研究Web安全
 - 📖 Blog: <https://kylin.moe>
