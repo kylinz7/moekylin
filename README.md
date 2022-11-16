@@ -1,7 +1,7 @@
 ## About Me <img src="@attachment/img/Kyubey.gif" style="width:50px">
 
 - 网络安全爱好者，喜欢研究Web安全
-- 📖 Blog: <https://yuque.com/icekylin7>
+- 📖 Blog: <https://icekylin.github.io>
 - 🛰️ Github: <https://github.com/icekylin>
 - 📧 Email: moekylin@qq.com
 - "Learning is like rowing upstream, not to advance is to drop back."
