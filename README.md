@@ -1,7 +1,7 @@
 **About Me** <!--<img src="@attachment/img/Kyubey.gif" style="width:50px"> -->
 - 📖 Blog: <https://icekylin.github.io>
 - 🛰️ Github: <https://github.com/icekylin>
-- 📧 Email: icekylin@qq.com
+- 📧 Email: moekylin@qq.com
 - "Learning is like rowing upstream, not to advance is to drop back."
 
 <!--
