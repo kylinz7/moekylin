@@ -1,4 +1,4 @@
-**About Me** <!--<img src="@attachment/img/Kyubey.gif" style="width:50px"> -->
+**About Me** <!--<img src="@attachment/img/Kyubey.gif" style="width:50px">-->
 - 📖 Blog: <https://icekylin.github.io>
 - 🛰️ Github: <https://github.com/icekylin>
 - 📧 Email: moekylin@qq.com
@@ -12,4 +12,4 @@
 - <https://github.com/icekylin/Do1ng> 个人维护的结构化安全知识框架
 - -->
 
-![snake](https://raw.githubusercontent.com/kyl1n0/kyl1n0/output/github-contribution-grid-snake.svg)
+<!-- ![snake](https://raw.githubusercontent.com/kyl1n0/kyl1n0/output/github-contribution-grid-snake.svg) -->
